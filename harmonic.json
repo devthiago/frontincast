@@ -1,0 +1,25 @@
+{
+    "name": "Front in Cast",
+    "title": "Tudo sobre o ecossistema front-end",
+    "domain": "http://awesome.com",
+    "subtitle": "Apresentado por Rafael Silva e Thiago Alves",
+    "author": "Rafael Silva e Thiago Alves",
+    "description": "Podcast que trata de todo ecossistema que envolve o desenvolvimento web front-end, assim como outras temáticas que suas tecnologias podem abordar",
+    "bio": "Desenvolvedores Front-End que se conheceram em eventos por aí e não pararam de debater sobre as coisas da web e como elas interferem na nossa vida",
+    "theme": "harmonic-theme-default",
+    "preprocessor": "less",
+    "posts_permalink": ":language/:year/:month/:title",
+    "pages_permalink": ":language/pages/:title",
+    "header_tokens": [
+        "<!--",
+        "-->"
+    ],
+    "index_posts": 10,
+    "i18n": {
+        "default": "en",
+        "languages": [
+            "en",
+            "pt-br"
+        ]
+    }
+}
